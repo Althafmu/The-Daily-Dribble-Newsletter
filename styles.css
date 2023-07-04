@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+    color: #121212;
+}
+img{
+    display: block;
+    width: 380px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid #121212;
+}
+p{
+    display: block;
+     width: 380px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: bold;
+}
+.in{
+    display: block;
+    width: 240px;
+    text-align: center;
+    margin-top :35px; 
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid #121212;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+.btn{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    margin-top: 10px;
+    color: white;
+    background: #121212;
+    border: 3px solid #121212;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
